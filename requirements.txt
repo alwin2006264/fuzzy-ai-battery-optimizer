@@ -3,6 +3,7 @@ langchain-google-genai
 python-dotenv
 pydantic
 numpy
+scipy
 scikit-fuzzy
 fastapi
 uvicorn
